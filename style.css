@@ -1,0 +1,33 @@
+.block{
+    background-color: #bde0fe;
+    border-radius: .4em 1.5em;
+    margin: 20px;
+    padding: 1em 2em;
+}
+
+.title{
+    font-weight: bold;
+}
+
+body{
+    margin: auto;
+    max-width: 50em;
+    background-color: white;
+    color: #222;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+}
+
+h1{
+    color: #111;
+    text-align: center;
+}
+
+a{
+    color: #18206F;
+}
+
+
+
+
